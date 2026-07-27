@@ -1,3 +1,4 @@
-*.xlsx
-*.pbix
-*.png
+# Keep the project assets in the repository
+# *.xlsx
+# *.pbix
+# *.png
